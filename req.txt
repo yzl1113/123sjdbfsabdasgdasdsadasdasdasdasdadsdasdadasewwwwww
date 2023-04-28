@@ -1,0 +1,8 @@
+pygame
+colorama
+pystyle
+websocket
+time
+json
+concurrent.futures
+os
